@@ -47,4 +47,4 @@ printLine(["1 + 1 = "] + [number1] + [number2])!
 '''
 
 interpret = TheraposaInterpreter()
-interpret.interpret()
+interpret.interpret(script)
